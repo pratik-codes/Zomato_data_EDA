@@ -92,15 +92,27 @@ This gives a clear idea about what types of restaurants are most liked by the cu
 
 ![](Images/download%20(6).png)
 
+![](Images/download%20(7).png)
+
 This plot gives a clear how delivery and dine out services are more prefered by the customers.
 
 ## Cost of restaurants
 
-![](Images/download%20(7).png)
+![](Images/download%20(8).png)
 
 This shows that more restraunts fall in the price category of 250-700 which is qquite normal and common.
 
 ## Most famous Restaurant chains in Bengaluru
+
+![](Images/download%20(11).png)
+
+This plot shows which are the most famous restaurants of Bengaluru
+The top 3 are:
+* Cafe Coffe Day
+* Onesta
+* Just Bake
+
+
 
 
 
