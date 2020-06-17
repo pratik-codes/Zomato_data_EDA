@@ -37,3 +37,76 @@ The basic idea is analyzing the Buisness Problem of Zomato  to get a fair idea a
 
 
 # Results
+
+## Restaurants delivering Online or not
+
+![](Images/download1.png)
+
+Most of restraunts deliver online which is good thing as a big chunk of revenue is collected from delivery from online platforms.
+
+
+## Table booking Rate vs Normal Rate
+
+![](Images/download%20(1).png)
+
+We can observe from the plots the high amount of rating to restaurants where the booking was done.
+
+## Location wise count of Restaurants
+
+![](Images/download%20(2).png)
+
+![](Images/download%20(8).png)
+
+
+This gives a clear idea about the places with hav high amount of restraunts this can be because this placeses can be among the placeses  must be mor epopular for food and hangout placeses for people.
+Some placeses which have high density of restraunts are:
+* BTM.
+* Jayanagar.
+* Koramangal 4th, 5th, 6th and 7th block.
+
+## Location wise ratings of Restraunts
+
+![](Images/download%20(3).png)
+
+This plots shows the rating of customers given to restraunts in that particular locations. This can give a good idea about from which locations customers prefer to get food from and which are popular among customers.
+
+## Count of Restaurants types
+
+![](Images/download%20(4).png)
+
+![](Images/download%20(9).png)
+
+This shoqs what types of restaurants are more. This can also be due to people are more likely to eat food from these types of restraunts.
+Some famous types are:
+* Casual Dinings
+* Quick Bites
+* Cafes
+
+## Rating with respect to restaurant types
+
+![](Images/download%20(5).png)
+
+This gives a clear idea about what types of restaurants are most liked by the customers.
+
+## Types of Services
+
+![](Images/download%20(6).png)
+
+This plot gives a clear how delivery and dine out services are more prefered by the customers.
+
+## Cost of restaurants
+
+![](Images/download%20(7).png)
+
+This shows that more restraunts fall in the price category of 250-700 which is qquite normal and common.
+
+## Most famous Restaurant chains in Bengaluru
+
+
+
+
+
+
+
+
+
