@@ -55,7 +55,7 @@ We can observe from the plots the high amount of rating to restaurants where the
 
 ![](Images/download%20(2).png)
 
-![](Images/download%20(8).png)
+![](Images/download%20(9).png)
 
 
 This gives a clear idea about the places with hav high amount of restraunts this can be because this placeses can be among the placeses  must be mor epopular for food and hangout placeses for people.
@@ -74,7 +74,7 @@ This plots shows the rating of customers given to restraunts in that particular 
 
 ![](Images/download%20(4).png)
 
-![](Images/download%20(9).png)
+![](Images/download%20(10).png)
 
 This shoqs what types of restaurants are more. This can also be due to people are more likely to eat food from these types of restraunts.
 Some famous types are:
